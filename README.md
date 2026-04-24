@@ -7,13 +7,6 @@ The system must allow the librarian to:
 •	Delete a book 
 The application must use a database to store records permanently.
 
-Create the Book model must contain the following fields:
-•	Id 
-•	Title 
-•	Author 
-•	Category 
-•	CopiesAvailable 
-
 Unit Testing for Library System
 As part of the system, you are required to implement basic unit tests to verify that the Book model behaves correctly.
 The purpose of this task is to ensure that the core logic of your application is functioning correctly before integrating other components.
